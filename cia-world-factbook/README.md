@@ -1,4 +1,4 @@
-[h1]How to use the CIA World Facebook[/h1]
+# How to use the CIA World Facebook
 
 Non-standard country codes are in use: for example, Austria is au, Australia is as
 
@@ -12,6 +12,14 @@ Example (GDP (Official Exchange Rate)): https://www.cia.gov/library/publications
 
 
 
-Special information about specific fields:
+## Fields of interest
 
-GDP (official exchange rate): human-friendly amounts with up to four significant figures ($5.6 billion, $2.587 trillion), the year (2017 est.), and any notes. Some have $NA
+* GDP (official exchange rate) (https://www.cia.gov/library/publications/the-world-factbook/fields/2195.html)
+- human-friendly amounts with up to four significant figures ($5.6 billion, $2.587 trillion). Some have $NA
+- the year (2017 est.)
+- notes (note: )
+
+* Refugees and Internally Displaced Persons (https://www.cia.gov/library/publications/the-world-factbook/fields/2194.html)
+- Refugees: count (country); (year) note: xxxxx
+- IDPs
+- Stateless persons
