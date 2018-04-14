@@ -1,4 +1,4 @@
-# How to use the CIA World Facebook
+# How to use the CIA World Factbook
 
 Non-standard country codes are in use: for example, Austria is au, Australia is as
 
