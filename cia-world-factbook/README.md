@@ -1,6 +1,6 @@
 # How to use the CIA World Factbook
 
-Non-standard country codes are in use: for example, Austria is au, Australia is as
+Non-standard country codes are used: for example, Austria is au, Australia is as
 
 Open a country page to see the fields available
 
@@ -10,7 +10,11 @@ Look for the square on the right end of each data field section header - this wi
 
 Example (GDP (Official Exchange Rate)): https://www.cia.gov/library/publications/the-world-factbook/fields/2195.html#gm
 
+## Fields in machine-friendlier format
 
+https://www.cia.gov/library/publications/the-world-factbook/fields/print_2001.html
+
+As of July 2018, fields 2001 - 2271 exist. Not all countries are represented in each field.
 
 ## Fields of interest
 
